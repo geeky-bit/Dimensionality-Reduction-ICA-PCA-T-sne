@@ -25,4 +25,4 @@ transformation is nothing but a linear change of basis between the two variable 
 
 **_Stay tuned_. I have just started uploading the codes. In the next couple of days, I will upload all the codes with examples and some visualizations.**
 
-** /# The codes are freely available to use. Please free to contribute. _Enjoy!!_**
+**/# The codes are freely available to use. Please free to contribute. _Enjoy!!_**
