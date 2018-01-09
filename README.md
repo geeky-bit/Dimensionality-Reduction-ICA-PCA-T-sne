@@ -1,5 +1,5 @@
 # Massive Guide to Dimensionality-Reduction
-This repos is a collection of examples of various Dimensionality Reduction techniques
+This repos is a collection of examples of various Dimensionality Reduction techniques. <>
 I will try to cover almost all currently used techniques.
 If you are new, don't worry. Codes will in *Python and R*. **Cheers !!!**
 
