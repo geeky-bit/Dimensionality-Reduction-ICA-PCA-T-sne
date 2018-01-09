@@ -18,8 +18,6 @@ If you are new, don't worry. Codes will in Python and R. Cheers !!!
 
 *Another family of methods is based on the decomposition of a matrix formed by all input data as columns, X .
 The input data matrix using the input variables is transformed into a new data matrix using the new variables. The
-transformation is nothing but a linear change of basis between the two variable sets*
-
-*I will cover some of them*
+transformation is nothing but a linear change of basis between the two variable sets. I will cover some of them.*
 
 **Stay tuned. I have just started uploading the codes. In the next couple of days, I will upload all the codes with examples and some visualizations.** 
